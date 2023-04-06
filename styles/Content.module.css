@@ -1,3 +1,13 @@
+.container {
+  margin: 20px;
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: row;
+  gap: 120px;
+}
+
 .buttons {
   display: flex;
   flex-direction: row;
@@ -10,4 +20,9 @@
   border: none;
   border-radius: 3px;
   box-shadow: 1px 1px 1px 1px rgb(207, 204, 204);
+}
+
+.hero {
+  height: 200px;
+  width: 200px;
 }
