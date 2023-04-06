@@ -1,0 +1,13 @@
+.buttons {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  gap: 2rem;
+}
+
+#chrome {
+  padding: 10px;
+  border: none;
+  border-radius: 3px;
+  box-shadow: 1px 1px 1px 1px rgb(207, 204, 204);
+}
