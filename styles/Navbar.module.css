@@ -1,7 +1,26 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 10px;
+  font-size: smaller;
+}
+
 .navbar {
   display: flex;
   flex-direction: row;
   gap: 1rem;
   justify-content: space-between;
   align-items: center;
+}
+
+.btn {
+  background: red;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: smaller;
+  font-weight: 500;
+  color: white;
+  border-radius: 3px;
+  border: none;
+  padding: 3px 25px 3px 25px;
 }
