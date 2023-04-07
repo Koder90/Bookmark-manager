@@ -1,5 +1,5 @@
 import styles from '../styles/Content.module.css';
-import Hero from '../utils/illustration-hero.png';
+import Hero from '../public/illustration-hero.png';
 
 export default function Content() {
   return (

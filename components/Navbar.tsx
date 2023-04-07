@@ -1,6 +1,6 @@
 import Link from 'next/link';
 import styles from '../styles/Navbar.module.css';
-import bookmarkLogo from '../utils/logo-bookmark.svg';
+import bookmarkLogo from '../public/logo-bookmark.svg';
 
 export default function Navbar() {
   return (
