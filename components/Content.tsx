@@ -7,8 +7,8 @@ export default function Content() {
         <div className={styles.intro}>
           <h1>A Simple bookmark manager</h1>
           <p>
-            A clean and simple interface to organize your favorite websites.Open
-            a new browser tab and see your sites load instantly. Try it for
+            A clean and simple interface to organize your favorite websites.
+            Open a new browser tab and see your sites load instantly. Try it for
             free.
           </p>
           <div className={styles.buttons}>
